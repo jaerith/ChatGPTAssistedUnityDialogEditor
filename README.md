@@ -28,8 +28,13 @@ Once the dialog graph has been created, it should resemble the following, with t
 
 Now, when the game is run within the Unity editor and the dialog is fired, we will observe the following happen:
 
+⚔️ Guard: "Allo, peasant.  Hmmm...I'll let you by if you answer one of me riddles.  Up for it, mate?"
 ![NPC Static](https://github.com/jaerith/ChatGPTAssistedUnityDialogEditor/blob/main/Screenshots/RiddleStep05.png)
+
+🧙‍♂️ Player: "Go ahead, gov.  I'll take that challenge."
 ![Player Static](https://github.com/jaerith/ChatGPTAssistedUnityDialogEditor/blob/main/Screenshots/RiddleStep06.png)
+
+And then the riddle will be dynamically provided by ChatGPT:
 ![NPC Dynamic](https://github.com/jaerith/ChatGPTAssistedUnityDialogEditor/blob/main/Screenshots/RiddleStep07.png)
 
 ### Keeping ChatGPT Results
